@@ -19,7 +19,7 @@ Tembea-KE is a travel website that aims to provide comprehensive information abo
 
 To run Tembea-KE locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/Tembea-KE.git`
+1. Clone the repository: `git clone https://github.com/johnahumanbeing/Tembea-KE.git`
 2. Install the required dependencies: `npm install`
 3. Start the development server: `npm start`
 
