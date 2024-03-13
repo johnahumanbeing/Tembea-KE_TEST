@@ -25,7 +25,7 @@ To run Tembea-KE locally, follow these steps:
 
 ## Contributing
 
-We welcome contributions from everyone! If you'd like to contribute to Tembea-KE, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from everyone! If you'd like to contribute to Tembea-KE, please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
@@ -33,6 +33,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to us at [contact@tembea-ke](mailto:mseewak@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me at [contact@John](mailto:mseewak@gmail.com).
 
 Happy traveling!
