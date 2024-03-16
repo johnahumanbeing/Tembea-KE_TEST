@@ -33,15 +33,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [contact@John](mailto:mseewak@gmail.com).
-
-## Acknowledgements
-
-I would like to express my gratitude to the following individuals for their valuable contributions and support in the development of Tembea-KE:
-
-- [HAJAR](https://github.com/ELABDELLAOUI-HAJAR)
-- [YOUSSEF](https://github.com/sabrallah)
-
-Thank you all for your help!
+If you have any questions or suggestions, feel free to reach out to me at [@John](mailto:mseewak@gmail.com).
 
 Happy traveling!
