@@ -33,6 +33,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [@John](mailto:mseewak@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me at [John](mailto:mseewak@gmail.com).
 
 Happy traveling!
